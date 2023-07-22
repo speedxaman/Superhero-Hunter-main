@@ -12,6 +12,9 @@ main {
 #search-input {
     width: 100%;
     height: 30px;
+    outline: none;
+    border-radius: 1em;
+    border: none;
 }
 
 #search-button {
@@ -19,6 +22,7 @@ main {
     padding: 6px;
     border: 1px solid black;
     height: 36px;
+    border-radius: 1em;
 }
 
 #display-superhero, #display-fav-superhero{
@@ -35,10 +39,10 @@ main {
     display: flex;
     height: 110px;
     width: 300px;
-    background-color: rgb(93, 47, 47);
+    background-color: rgb(3, 93, 134);
     box-shadow: 0 0 10px black;
     overflow: auto;
-
+    border-radius: 1em;
 }
 
 

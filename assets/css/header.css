@@ -1,6 +1,7 @@
 html{
-    background-color: rgb(49, 12, 12);
+    background-color: rgb(9, 171, 177);
     color:white;
+    font-family: sans-serif;
 }
 header{
     display: flex;
@@ -8,7 +9,7 @@ header{
     justify-content: space-between;
     margin: 10px;
     border-bottom: 1px solid lightgray;
-    background-color: rgb(93, 47, 47);
+    background-color: rgb(13, 34, 169);
     border-radius: 10px;
     box-shadow: 0 0 10px black;
     
@@ -45,5 +46,5 @@ a{
 }
 
 #like-button{
-    color: rgb(255, 102, 102);
+    color: rgb(208, 52, 86);
 }
