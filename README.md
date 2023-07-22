@@ -3,8 +3,8 @@
 Name: Aman Kr Gautam
 
 
-Regards
-Hosted Link: 
+
+Hosted Link: https://speedxaman.github.io/Superhero-Hunter-main/
 
 ## Problem statement
 Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript (you can use any css framework like Bootstrap).
